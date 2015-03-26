@@ -1,4 +1,4 @@
-finan-api
+Finan API
 =======================
 * Web API 2
 
