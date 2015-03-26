@@ -1,0 +1,7 @@
+C:\Users\Pierry\Documents\Repositorios\finan-rest\Finan\Finan.Repository\bin\Debug\Finan.Repository.dll
+C:\Users\Pierry\Documents\Repositorios\finan-rest\Finan\Finan.Repository\bin\Debug\Finan.Repository.pdb
+C:\Users\Pierry\Documents\Repositorios\finan-rest\Finan\Finan.Repository\bin\Debug\Finan.Domain.dll
+C:\Users\Pierry\Documents\Repositorios\finan-rest\Finan\Finan.Repository\bin\Debug\Finan.Domain.pdb
+C:\Users\Pierry\Documents\Repositorios\finan-rest\Finan\Finan.Repository\obj\Debug\Finan.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Pierry\Documents\Repositorios\finan-rest\Finan\Finan.Repository\obj\Debug\Finan.Repository.dll
+C:\Users\Pierry\Documents\Repositorios\finan-rest\Finan\Finan.Repository\obj\Debug\Finan.Repository.pdb
