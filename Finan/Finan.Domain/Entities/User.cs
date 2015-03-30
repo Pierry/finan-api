@@ -11,7 +11,7 @@ namespace Finan.Domain.Entities
         public DateTime LastLogOn { get; set; }
         public bool IsActive { get; set; }
 
-        // Framework need
+        // EntityFramework needs
         public User() { }
 
         // Create User
@@ -40,17 +40,20 @@ namespace Finan.Domain.Entities
             if (password.Equals(confirmPassword))
             {
                 Password = password;
-            }
+            } else  throw new Exception();
+            IsValid();
         }
 
         public void UpdateLogOn(DateTime lastDate)
         {
             LastLogOn = lastDate;
+            IsValid();
         }
 
         public void ChangeStatus(bool status)
         {
             IsActive = status;
+            IsValid();
         }
 
         public void ResetPassword(string oldPassword, string newPassword, string confirmPassword)
@@ -59,6 +62,7 @@ namespace Finan.Domain.Entities
             {
                 Password = newPassword;
             }
+            IsValid();
         }
 
         public void IsValid()

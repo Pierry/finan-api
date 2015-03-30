@@ -16,7 +16,7 @@ namespace Finan.Domain.Entities
         public virtual Local Local { get; set; }
         public virtual EnterType EnterType { get; set; }
 
-        // EntityFramework need
+        // EntityFramework needs
         protected Item() { }
 
         // Create Item

@@ -6,7 +6,7 @@
         public string Description { get; set; }
         public int UserId { get; set; }
 
-        // EntityFramework need
+        // EntityFramework needs
         protected Local() { }
 
         // Create local

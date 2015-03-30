@@ -1,0 +1,7 @@
+C:\Users\Pierry\Documents\Repositorios\finan-api\Finan\Tdd\bin\Debug\Tdd.dll
+C:\Users\Pierry\Documents\Repositorios\finan-api\Finan\Tdd\bin\Debug\Tdd.pdb
+C:\Users\Pierry\Documents\Repositorios\finan-api\Finan\Tdd\bin\Debug\Finan.Domain.dll
+C:\Users\Pierry\Documents\Repositorios\finan-api\Finan\Tdd\bin\Debug\Finan.Domain.pdb
+C:\Users\Pierry\Documents\Repositorios\finan-api\Finan\Tdd\obj\Debug\Finan.Tdd.csprojResolveAssemblyReference.cache
+C:\Users\Pierry\Documents\Repositorios\finan-api\Finan\Tdd\obj\Debug\Tdd.dll
+C:\Users\Pierry\Documents\Repositorios\finan-api\Finan\Tdd\obj\Debug\Tdd.pdb
