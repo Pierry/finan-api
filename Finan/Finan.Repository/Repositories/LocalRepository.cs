@@ -18,7 +18,7 @@ namespace Finan.Repository.Repositories
             _mock.Add(new Local(3, "Car", 1));
             _mock.Add(new Local(4, "Home", 1));
             _mock.Add(new Local(5, "Market", 2));
-            _mock.Add(new Local(6, "Meat", 2));
+            _mock.Add(new Local(6, "Meal", 2));
             _mock.Add(new Local(7, "Gas", 2));
             _mock.Add(new Local(8, "Coffee", 2));
             _mock.Add(new Local(9, "Market", 3));

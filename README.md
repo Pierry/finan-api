@@ -1,2 +1,12 @@
-# finan-api
-Web API 2, DI (Unity), EF, DDD, Repository Pattern
+Finan API
+=======================
+* Web API 2
+
+## Patterns, frameworks & approaches
+* Unity (Dependency Injection)
+* EntityFramework
+* Domain Driven Design
+* Repository
+* Specification
+
+
